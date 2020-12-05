@@ -1,2 +1,2 @@
 # Data-Mining-on-DigiKala-datasets
-Data Mining on Digikala databases using Pandas in python
+Data Mining on Digikala datasets using Pandas in python
