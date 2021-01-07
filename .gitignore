@@ -1,2 +1,4 @@
 # Don't track content of these folders
 dataset/
+translate_dataset.csv
+preprocessed_dataset.csv
